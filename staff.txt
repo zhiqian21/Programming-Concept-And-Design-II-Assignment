@@ -1,0 +1,11 @@
+S01|Ng Mei Teng|07-06-1998|Retails Manager|Sales|0198761234|7000.00
+S02|Yong Vin Sen|08-12-1990|Training Manager|HR|0197283918|9500.00
+S03|Chang Kar Yan|08-01-2000|Database Administrator|IT|0187771527|4000.00
+S04|Soh Wu Kang|01-08-2001|Auditor|Accounting|01190871267|3500.00
+S05|Chua Ting Hui|09-01-1990|Marketing Manager|Marketing|0185290815|6000.00
+S06|On Siew Lee|06-01-1996|IT Manager|IT|0175520812|8000.00
+S07|Emily Tan|09-01-2004|Partimer|Sales|0162314625|1500.00
+S08|Yap Zhi Qian|01-02-1995|Accounting Manager|Accounting|0162153202|9000.00
+S09|Tan Yen Fang|08-02-1998|Sales Manager|Sales|0186620203|5000.00
+S10|Lim Chai Yun|03-05-1988|HR Manager|HR|0108073347|5000.00
+S11|Tan Hui Ying|09-01-1990|Business Administrator|Operation|0187128912|3500.00
